@@ -1,5 +1,10 @@
 # Cryptography Lab Experiments
-# Vaidehi Patil TE AIDS 124A8082
+# Cryptography Lab Experiments
+
+**Student Name:** Rachna Muthukumar - 124A8089
+**Branch:** AI & Data Science
+**Year:** Third Year Engineering (T.E.)
+**GitHub:** [rachna1912](https://github.com/rachna1912)
 This repository contains the implementation and output of cryptography laboratory experiments performed using Python and PyCryptodome.
 
 ## Experiments Included
